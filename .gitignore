@@ -35,4 +35,16 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store!/.idea/compiler.xml
+
+!/.idea/encodings.xml
+
+!/.idea/jarRepositories.xml
+
+!/.idea/jpa-buddy.xml
+
+!/.idea/misc.xml
+
+!/.idea/vcs.xml
+
+!/.idea/workspace.xml
