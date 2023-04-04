@@ -1,0 +1,5 @@
+package uz.job.enums;
+
+public enum VacancyCreationState {
+    REGION, DISTRICT, VACANCYNAME, FULLNAME, SALARY, ACCEPTTIME, PHONE, WORKTIME, FINISH, ADDITIONAL, USERNAME, COMPANY
+}
